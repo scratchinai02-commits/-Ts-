@@ -1,0 +1,8 @@
+{
+  "name": "簡化版 MasterTalks 台股 AI 盯盤系統 Vibe Coding 實戰指南（免登入v6）",
+  "description": "不會寫程式也能打造專屬台股 AI 盯盤與量化分析系統。一鏡到底 24 步驟詠唱詞庫、完美救援程式碼、20+ 量化指標矩陣與 Gemini AI 實時盤勢分析儀表板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
